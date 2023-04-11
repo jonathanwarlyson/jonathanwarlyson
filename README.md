@@ -1,4 +1,4 @@
-### Eu sou o Jonathan, desenvolvedor Full Stack!
+### Olá! Eu sou Jonathan, desenvolvedor Full Stack!
 Eu estou cursando Engenharia de Software. Sinta-se livre para me ajudar se ver algum erro ou tiver sugestões para meus códigos!
 Tenho conhecimento das tecnologias abaixo:
 
