@@ -1,5 +1,6 @@
 ### Eu sou o Jonathan, desenvolvedor Full Stack!
-Eu estou cursando Engenharia de Software. Tenhos conhecimento das tecnologias abaixo:
+Eu estou cursando Engenharia de Software. Sinta-se livre para me ajudar se ver algum erro ou tiver sugestões para meus códigos!
+Tenho conhecimento das tecnologias abaixo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
